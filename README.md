@@ -1,7 +1,7 @@
 Introducción al Análisis de redes
 ================
 Guilermo de Anda-Jáuregui
-
+[@gdeandajauregui](https://twitter.com/gdeandajauregui)
 INMEGEN/CONACYT/C3-UNAM
 
 **X Escuela de Ciencia de Datos - IMATE Cuernavaca**
@@ -63,7 +63,7 @@ Para el ejemplo, vamos a usar una versión reducida de la Red de Contactos de la
 
 *Hay que descargar la red guardando el archivo haciendo click en "raw" y guardando la página. Nota: en algunos sistemas operativos / navegadores hay problema para descargar el raw file. Si no pueden descargarlo, intenten copiar y pegar el texto en un editor de textos y guardar el archivo.*
 
-
+Esta es una versión reducida de la red empírica para el 2020-02-18. La versión completa, anonimizada, la pueden encontrar en <https://osf.io/b6g92/>
 
 **Colocar el archivo en el directorio de trabajo**
 
