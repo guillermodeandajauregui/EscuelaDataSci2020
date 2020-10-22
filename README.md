@@ -1,7 +1,9 @@
 Introducción al Análisis de redes
 ================
 Guilermo de Anda-Jáuregui
+
 [@gdeandajauregui](https://twitter.com/gdeandajauregui)
+
 INMEGEN/CONACYT/C3-UNAM
 
 **X Escuela de Ciencia de Datos - IMATE Cuernavaca**
